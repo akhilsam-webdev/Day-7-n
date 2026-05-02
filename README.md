@@ -1,27 +1,27 @@
 # 🚀 Day-7-n – Backend Development with Express.js
 
-This project is part of my backend development journey, where I practiced building structured APIs using Node.js and Express.js, improving code organization and handling real-world backend concepts[cite: 1].
+This project is part of my backend development journey, where I practiced building structured APIs using Node.js and Express.js, improving code organization and handling real-world backend concepts.
 
 ## ⚙️ Tech Stack
-*   **Node.js**: The runtime environment used to execute JavaScript on the server[cite: 1].
-*   **Express.js**: The web framework used to handle routing and middleware[cite: 1].
-*   **JavaScript (ES6)**: The primary programming language for application logic[cite: 1].
-*   **MongoDB**: Integrated for database storage, managed via environment variables[cite: 1].
+*   **Node.js**: The runtime environment used to execute JavaScript on the server.
+*   **Express.js**: The web framework used to handle routing and middleware.
+*   **JavaScript (ES6)**: The primary programming language for application logic.
+*   **MongoDB**: Integrated for database storage, managed via environment variables.
 
 ## 📚 What I Learned
-*   **Structuring backend applications properly**: Learned to separate server initialization in `server.js` from the main application logic in `src/app.js`[cite: 1].
-*   **Creating multiple API routes**: Gained experience defining endpoints to handle specific client requests[cite: 1].
-*   **Handling HTTP methods**: Practiced processing GET, POST, and other standard HTTP methods[cite: 1].
-*   **Working with middleware in Express**: Implemented middleware functions to process data during the request-response cycle[cite: 1].
-*   **Understanding request-response lifecycle deeply**: Improved my grasp of how the server receives, processes, and responds to client data[cite: 1].
-*   **Basics of database integration**: Successfully connected the application to MongoDB Atlas using connection strings[cite: 1].
+*   **Structuring backend applications properly**: Learned to separate server initialization in `server.js` from the main application logic in `src/app.js`.
+*   **Creating multiple API routes**: Gained experience defining endpoints to handle specific client requests.
+*   **Handling HTTP methods**: Practiced processing GET, POST, and other standard HTTP methods.
+*   **Working with middleware in Express**: Implemented middleware functions to process data during the request-response cycle.
+*   **Understanding request-response lifecycle deeply**: Improved my grasp of how the server receives, processes, and responds to client data.
+*   **Basics of database integration**: Successfully connected the application to MongoDB Atlas using connection strings.
 
 ## ✨ Features
-*   **Express server setup**: Clean and modular server initialization[cite: 1].
-*   **Multiple API endpoints**: Organized route handling within the `src/` directory[cite: 1].
-*   **Middleware usage**: Efficient processing of incoming requests[cite: 1].
-*   **JSON request handling**: Capability to parse and respond with structured JSON data[cite: 1].
-*   **Clean and scalable project structure**: Follows industry best practices for folder organization[cite: 1].
+*   **Express server setup**: Clean and modular server initialization.
+*   **Multiple API endpoints**: Organized route handling within the `src/` directory.
+*   **Middleware usage**: Efficient processing of incoming requests.
+*   **JSON request handling**: Capability to parse and respond with structured JSON data.
+*   **Clean and scalable project structure**: Follows industry best practices for folder organization.
 
 ## 📂 Project Structure
 Referencing the **akhilsam-webdev/Day-7-n** file structure:
